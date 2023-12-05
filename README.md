@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## 🌱 I am currently studying Computer Science and Engineering as an undergraduate and I will use this github account to track my studies
 <!--
 **ZH0UU/ZH0UU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
